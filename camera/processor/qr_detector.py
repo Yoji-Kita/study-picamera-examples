@@ -3,6 +3,7 @@ import time
 from datetime import datetime
 import numpy as np
 import cv2
+from picamera import PiCamera
 
 from pyzbar import pyzbar
 
